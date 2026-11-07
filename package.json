@@ -1,0 +1,12 @@
+{
+  "name": "guangweiyun-fitting-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "广微云拟合实验室，用房屋面积与价格交互演示机器学习拟合。",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node tests/math.cjs",
+    "start": "node serve.cjs"
+  },
+  "engines": { "node": ">=20" }
+}
